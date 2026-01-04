@@ -24,6 +24,14 @@ const Hero = () => {
     <section id="home" className="hero">
       <div className="container hero-container">
         <div className="hero-content fade-in-up">
+          <div className="hero-image-wrapper">
+            <img 
+              src={portfolioData.personalInfo.profileImage || "https://via.placeholder.com/200"} 
+              alt={portfolioData.personalInfo.name}
+              className="hero-profile-image"
+            />
+          </div>
+          
           <div className="hero-greeting">Hi, I'm</div>
           <h1 className="hero-name">{portfolioData.personalInfo.name}</h1>
           <h2 className="hero-title">

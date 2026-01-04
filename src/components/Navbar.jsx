@@ -21,6 +21,7 @@ const Navbar = () => {
     { name: 'About', href: '#about' },
     { name: 'Skills', href: '#skills' },
     { name: 'Projects', href: '#projects' },
+    { name: 'Publications', href: '#publications' },
     { name: 'Experience', href: '#experience' },
     { name: 'Contact', href: '#contact' },
   ];
@@ -29,9 +30,9 @@ const Navbar = () => {
     <nav className={`navbar ${scrolled ? 'scrolled' : ''}`}>
       <div className="container navbar-container">
         <div className="logo">
-          <span className="logo-bracket">{'<'}</span>
-          AI/ML
-          <span className="logo-bracket">{'/>'}</span>
+          <span className="logo-bracket">{''}</span>
+          Aryan Sharma
+          <span className="logo-bracket">{''}</span>
         </div>
 
         <ul className={`nav-menu ${isOpen ? 'active' : ''}`}>

@@ -15,7 +15,10 @@ const Experience = () => {
                 <div className="timeline-date">{exp.duration}</div>
                 <h3 className="timeline-title">{exp.position}</h3>
                 <h4 className="timeline-company">{exp.company}</h4>
-                <p className="timeline-description">{exp.description}</p>
+                <div 
+                  className="timeline-description" 
+                  dangerouslySetInnerHTML={{ __html: exp.description }}
+                />
               </div>
             </div>
           ))}

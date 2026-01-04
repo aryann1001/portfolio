@@ -8,6 +8,7 @@
     "github": "https://github.com/aryann1001",
     "linkedin": "https://www.linkedin.com/in/aryan-sharma-98ab97223/",
     "website": "https://aryann1001.github.io/portfolio/",
+    "profileImage": "https://media.licdn.com/dms/image/v2/D5603AQHHNU4fBxLDAA/profile-displayphoto-scale_400_400/B56Ze82enwHQAg-/0/1751220088165?e=1769040000&v=beta&t=3p8n1HBAP_jA-Y2C6iwBrELh4yhjbX8T_7RMwRr7v1Q",
     "bio": "Passionate AI/ML Engineer with expertise in deep learning, computer vision, and natural language processing. Experienced in building scalable machine learning solutions and deploying models to production."
   },
   "skills": {
@@ -63,12 +64,30 @@
       "featured": false
     }
   ],
+  "publications": [
+    {
+      "title": "Evolutionary Stable Strategy enabled Resource Allocation in 6G using DL and Blockchain",
+      "conference": "International IEEE Asian Conference on Communication and Networks",
+      "date": "August 2024",
+      "location": "Bangkok, Thailand",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10811042",
+      "description": "Developed an Evolutionary ML framework combining Evolutionarily Stable Strategies (ESS), Deep Learning, and Blockchain for efficient 6G resource allocation, achieving fairness and stability with a maximum fitness change of 13.3% by the 11th period."
+    },
+    {
+      "title": "AI and Blockchain-Driven Reputation-Based Resource Allocation in 6G",
+      "conference": "International IEEE Conference - ICCCNT 2024",
+      "date": "June 2024",
+      "location": "IIT Mandi",
+      "link": "https://ieeexplore.ieee.org/document/10726067",
+      "description": "Leveraged game theory, deep learning, and blockchain to achieve transparent, fair, and low-latency spectrum allocation with secure, real-time resource optimization—resulting in an 18.8% improvement in reputation-based network performance."
+    }
+  ],
   "experience": [
     {
       "company": "MAQ Software",
       "position": "Software Engineer 1",
       "duration": "June 2025 - Present",
-      "description": "Leading ML infrastructure development and deploying production-grade models"
+      "description": "Driving enterprise AI solutions and data infrastructure modernization, with focus on API development, intelligent automation, and cloud-based analytics platforms.<br><b>•</b> Developed and optimized API endpoints for Databricks integration with asynchronous database management, implementing multiple endpoints for automated summary generation and data processing.<br><b>•</b> Optimized client software through LangGraph implementation, integrated AI in medallion architecture silver notebook transformation reducing manual effort by 70%.<br><b>•</b> Currently architecting enterprise-scale SAP data migration to Microsoft Fabric, orchestrating complex ETL pipelines and data transformation workflows to enable real-time analytics and business intelligence capabilities across the organization."
     },
     {
       "company": "Dvara Solutions",
