@@ -1,22 +1,35 @@
 {
   "personalInfo": {
-    "name": "Your Name",
+    "name": "Aryan Sharma",
     "title": "AI/ML Engineer",
-    "email": "your.email@example.com",
-    "phone": "+1 234 567 8900",
-    "location": "City, Country",
-    "github": "https://github.com/yourusername",
-    "linkedin": "https://linkedin.com/in/yourusername",
-    "website": "https://yourwebsite.com",
+    "email": "arh.sharma2003@gmail.com",
+    "phone": "+91 8887815624",
+    "location": "Noida, India",
+    "github": "https://github.com/aryann1001",
+    "linkedin": "https://www.linkedin.com/in/aryan-sharma-98ab97223/",
+    "website": "https://aryann1001.github.io/portfolio/",
     "bio": "Passionate AI/ML Engineer with expertise in deep learning, computer vision, and natural language processing. Experienced in building scalable machine learning solutions and deploying models to production."
   },
   "skills": {
-    "Machine Learning": ["TensorFlow", "PyTorch", "Scikit-learn", "XGBoost", "Keras"],
-    "Deep Learning": ["CNN", "RNN", "LSTM", "Transformers", "GANs"],
-    "Programming": ["Python", "JavaScript", "C++", "SQL", "R"],
-    "Tools & Frameworks": ["Docker", "Kubernetes", "Git", "AWS", "Azure"],
-    "Data Science": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Jupyter"],
-    "MLOps": ["MLflow", "Kubeflow", "DVC", "Airflow", "FastAPI"]
+    "Languages": ["C++", "Python", "Bash"],
+    "Developer Tools": ["Linux", "Github", "MySQL", "Neo4J", "Postgres", "Git", "FastAPI", "Docker", "Azure"],
+    "AI/ML": [
+      "Agentic AI",
+      "Retrieval-Augmented Generation (RAG)",
+      "MCP Servers",
+      "ChatBots",
+      "Neural Networks",
+      "CNN",
+      "RNN",
+      "Transformers",
+      "LLM",
+      "NLP",
+      "HuggingFace",
+      "LangChain",
+      "NumPy",
+      "Pandas",
+      "Scikit-learn"
+    ]
   },
   "projects": [
     {
@@ -52,30 +65,24 @@
   ],
   "experience": [
     {
-      "company": "Tech Company",
-      "position": "Senior ML Engineer",
-      "duration": "2022 - Present",
+      "company": "MAQ Software",
+      "position": "Software Engineer 1",
+      "duration": "June 2025 - Present",
       "description": "Leading ML infrastructure development and deploying production-grade models"
     },
     {
-      "company": "AI Startup",
-      "position": "ML Engineer",
-      "duration": "2020 - 2022",
-      "description": "Developed computer vision models and NLP solutions for enterprise clients"
+      "company": "Dvara Solutions",
+      "position": "AI/ML Intern",
+      "duration": "May 2024 - April 2025",
+      "description": "Developed solutions for enterprise clients.<br><b>•</b> Built an end-to-end API pipeline to extract and process user information from virtual meetings, leveraging transcription, translation, and summarization using GCP, Gemini models, and Azure services.<br><b>•</b> Designed and implemented a virtual assistant for bank loan eligibility, utilizing Knowledge Graphs and a Retrieval-Augmented Generation (RAG) framework to deliver accurate, context-aware responses from structured rules and documents.<br><b>•</b> Integrated and deployed Google ASR and Azure ASR in the SARATHI voice-enabled chatbot, enabling multilingual speech input and output for rural financial users."
     }
   ],
   "education": [
     {
-      "degree": "Master of Science in Computer Science",
-      "institution": "University Name",
-      "year": "2020",
-      "description": "Specialized in Machine Learning and Artificial Intelligence"
-    },
-    {
-      "degree": "Bachelor of Science in Computer Engineering",
-      "institution": "University Name",
-      "year": "2018",
-      "description": "Focus on Software Development and Data Structures"
+      "degree": "BTech in Computer Science and Engineering",
+      "institution": "Indian Institute of Technology (IIT) Dharwad",
+      "year": "2025",
+      "description": "Aspiring Machine Learning Developer with a solid foundation in Theoretical Computer Science, passionate about leveraging AI and ML to drive innovation in marketing and customer experiences. A quick learner, eager to tackle challenges and contribute to organizational growth through advanced AI solutions."
     }
   ]
 }
