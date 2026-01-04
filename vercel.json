@@ -1,0 +1,10 @@
+# Vercel Deployment Configuration
+# This file is automatically detected by Vercel
+
+# Build settings
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# Environment variables (set these in Vercel dashboard if needed)
+# VITE_API_URL = "your-api-url"

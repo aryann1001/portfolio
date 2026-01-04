@@ -1,0 +1,81 @@
+{
+  "personalInfo": {
+    "name": "Your Name",
+    "title": "AI/ML Engineer",
+    "email": "your.email@example.com",
+    "phone": "+1 234 567 8900",
+    "location": "City, Country",
+    "github": "https://github.com/yourusername",
+    "linkedin": "https://linkedin.com/in/yourusername",
+    "website": "https://yourwebsite.com",
+    "bio": "Passionate AI/ML Engineer with expertise in deep learning, computer vision, and natural language processing. Experienced in building scalable machine learning solutions and deploying models to production."
+  },
+  "skills": {
+    "Machine Learning": ["TensorFlow", "PyTorch", "Scikit-learn", "XGBoost", "Keras"],
+    "Deep Learning": ["CNN", "RNN", "LSTM", "Transformers", "GANs"],
+    "Programming": ["Python", "JavaScript", "C++", "SQL", "R"],
+    "Tools & Frameworks": ["Docker", "Kubernetes", "Git", "AWS", "Azure"],
+    "Data Science": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Jupyter"],
+    "MLOps": ["MLflow", "Kubeflow", "DVC", "Airflow", "FastAPI"]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "name": "Image Classification System",
+      "description": "Built a CNN-based image classifier achieving 95% accuracy on ImageNet dataset using transfer learning with ResNet-50",
+      "technologies": ["PyTorch", "Python", "Docker", "FastAPI"],
+      "github": "https://github.com/yourusername/project1",
+      "demo": "https://demo-link.com",
+      "image": "https://via.placeholder.com/600x400",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "NLP Sentiment Analysis",
+      "description": "Developed a sentiment analysis model using BERT transformers for social media data with 92% F1-score",
+      "technologies": ["Transformers", "HuggingFace", "Python", "Flask"],
+      "github": "https://github.com/yourusername/project2",
+      "demo": "",
+      "image": "https://via.placeholder.com/600x400",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "name": "Recommendation Engine",
+      "description": "Created a collaborative filtering recommendation system serving 1M+ users with sub-100ms latency",
+      "technologies": ["TensorFlow", "Redis", "PostgreSQL", "Kubernetes"],
+      "github": "https://github.com/yourusername/project3",
+      "demo": "https://demo-link.com",
+      "image": "https://via.placeholder.com/600x400",
+      "featured": false
+    }
+  ],
+  "experience": [
+    {
+      "company": "Tech Company",
+      "position": "Senior ML Engineer",
+      "duration": "2022 - Present",
+      "description": "Leading ML infrastructure development and deploying production-grade models"
+    },
+    {
+      "company": "AI Startup",
+      "position": "ML Engineer",
+      "duration": "2020 - 2022",
+      "description": "Developed computer vision models and NLP solutions for enterprise clients"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science in Computer Science",
+      "institution": "University Name",
+      "year": "2020",
+      "description": "Specialized in Machine Learning and Artificial Intelligence"
+    },
+    {
+      "degree": "Bachelor of Science in Computer Engineering",
+      "institution": "University Name",
+      "year": "2018",
+      "description": "Focus on Software Development and Data Structures"
+    }
+  ]
+}
